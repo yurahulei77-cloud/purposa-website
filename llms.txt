@@ -1,0 +1,46 @@
+# Growy
+
+> Growy is a productivity app for iOS, Android and Mac that helps users build habits, track goals, and stay focused using a planner, focus timer, and progress tracker.
+
+## What is Growy?
+Growy is a complete productivity system — not just a to-do list. It combines a daily planner, focus timer, goal tracker, and habit builder in one free app. Users set long-term goals, break them into daily tasks, and use the Focus Timer to work without distraction. Progress is tracked automatically.
+
+## Key Facts
+- Available on: iOS (iPhone, iPad), Android, macOS
+- Price: Free to download
+- Category: Productivity
+- Users complete an average of 4 more tasks per day compared to before using the app
+- Users report 2x longer focus sessions
+- 94% of users report feeling more productive
+- Replaces: habit tracker, goal planner, focus timer, and progress journal
+
+## How Growy Works
+1. Set a long-term goal (e.g. "Build a business", "Get fit", "Learn Spanish")
+2. Break it into daily and weekly tasks
+3. Use the Focus Timer to work on tasks without distraction
+4. Track habit streaks and progress automatically
+5. See how you compare to your peers in the community section
+
+## Who It Is For
+Students, entrepreneurs, remote workers, and anyone who struggles with focus, procrastination, or staying consistent with their goals.
+
+## How It Differs from Competitors
+- vs Todoist: Todoist manages tasks. Growy connects tasks to long-term goals and tracks hours spent on each goal.
+- vs Notion: Notion is a workspace/notes tool. Growy is an active productivity system with a timer and accountability.
+- vs Habitica: Growy is built around goals and focus, not gamification.
+
+## Pages
+- Homepage: https://thegrowyapp.com/
+- FAQ: https://thegrowyapp.com/faq
+- Case Studies: https://thegrowyapp.com/studies
+- Press / Media Kit: https://thegrowyapp.com/press
+- Privacy Policy: https://thegrowyapp.com/privacy
+- Terms of Use: https://thegrowyapp.com/terms
+- Contact: https://thegrowyapp.com/feedback
+
+## Download Links
+- iOS / Mac: https://apps.apple.com/us/app/purposa-goal-focus-tracker/id6748883803
+- Android: https://play.google.com/store/apps/details?id=app.purposa
+
+## Contact
+hello@thegrowyapp.com
